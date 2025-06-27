@@ -12,3 +12,35 @@ I am a web designer, currently studying different programming languages to take 
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside coding, 💜I love reading books, 🎮 playing videogames, 🎵 listening to music, and 📖 studying biology.
 - 📫 Reach out to me at: <a href="laramayer.dsg@gmail.com">laramayer.dsg@gmail.com</a>
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-HTML5?style=flat&logo=HTML5&logoColor=white&labelColor=%23b2443a&color=%23fa8072">
+  <img src="https://img.shields.io/badge/CSS3-CSS3?style=flat&logo=CSS&logoColor=white&labelColor=%23b2443a&color=%23fa8072">
+  <img src="https://img.shields.io/badge/JavaScript-JAVASCRIPT?style=flat&logo=JavaScript&logoColor=white&labelColor=%23b2443a&color=%23fa8072">
+
+ 
+
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Figma-Figma?style=flat&logo=Figma&logoColor=white&labelColor=%23734991&color=%23a77bc6">
+  <img src="https://img.shields.io/badge/Notion-Notion?style=flat&logo=Notion&logoColor=white&labelColor=%23734991&color=%23a77bc6">
+  <img src="https://img.shields.io/badge/Wordpress-Wordpress?style=flat&logo=Wordpress&logoColor=white&labelColor=%23734991&color=%23a77bc6">
+  <img src="https://img.shields.io/badge/Elementor-Elementor?style=flat&logo=Elementor&logoColor=white&labelColor=%23734991&color=%23a77bc6">
+  <img src="https://img.shields.io/badge/Webflow-Webflow?style=flat&logo=Webflow&logoColor=white&labelColor=%23734991&color=%23a77bc6">
+  <img src="https://img.shields.io/badge/Framer-Framer?style=flat&logo=Framer&logoColor=white&labelColor=%23734991&color=%23a77bc6">
+
+
+
+</span>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=mvalentina2&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mvalentina2)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mvalentina2&theme=material-palenight)](https://github.com/mvalentina2)
+</div>
